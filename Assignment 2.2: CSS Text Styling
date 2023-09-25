@@ -1,0 +1,37 @@
+<style>
+
+
+
+ { background-color:#2e4b8f;
+  }
+  body 
+  
+  h1 {
+    color: rgb(5, 106, 129);
+  }
+
+  h2 {
+    color: green;
+  }
+
+  h3 {
+    color: green;
+  }
+
+  p {
+    color: rgb(144, 21, 169);
+  }
+
+  p2 {
+    color: green;
+  }
+  p {
+    font-family: verdana;
+    font-size: 13px;
+  }
+
+  p2 {
+    font-family: verdana;
+    font-size: 10px;
+  }
+</style>
