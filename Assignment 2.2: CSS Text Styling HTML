@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Copyright Text</title>
+    <link rel="stylesheet" type="text/css" href="Class.CSS"/>
+    <body style="background-color:aquamarine;">
+
+    <h1 class="w3-jumbo w3-animate-top"> A Jelly-Fish</h1>
+   
+    <h2 class="w3-large w3-center">Marianne Moore</h2>
+    <h3 class="w3-large w3-center"> 1887 – 1972 </h3>
+
+    <p> Visible, invisible,
+        A fluctuating charm,</p>
+    <p>An amber-colored amethyst
+            Inhabits it; your arm</p>
+    <p>Approaches, and
+        It opens and
+        It closes;</p>
+    <p>You have meant
+        To catch it,
+        And it shrivels;
+        You abandon</p>
+    <p>Your intent—
+        It opens, and it
+        Closes and you
+        Reach for it—</p>
+    <p>The blue
+        Surrounding it
+        Grows cloudy, and
+        It floats away
+        From you.</p>
+
+        <p2>This poem is in the public domain. Published in Poem-a-Day on August 30, 2015, by the Academy of American Poets.</p2>
+    
+</head>
+<body>
+    
+</body>
+</html>
