@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Assign final</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="finalstyle.css"> 
+</head>
+
+<body>
+<div id="container">
+  
+	<div id="header">
+		<h1><span class="off">Geek Mingle</span></h1>
+        <div id="links">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">Events</a>
+            <a href="#">Contact</a>
+            
+        </div>
+    </div>
+	<div id="content">
+    	<img class="picture" src="/Users/elexisasuncion/Desktop/con.webp" style="width:900px;height:300px;"/>
+        <div class="contenttext">
+
+        <hr>
+        </div>
+        <h2>Services</h2>
+        <p>You can network, find a new friend to hang with at your favorite convention, or find the Mary Jane or Peter Parker you've always wanted</p>
+
+        <class="contact">
+            <div class="box"></div> 
+            <div class="box1"></div>
+        
+            <div class="box2"></div> 
+     </div> 
+//enter links to new page
+
+    	
+       
+         <hr>
+
+        <h2>Event</h2>
+            <p>This is where a calender event will go if i can figure that out</p>
+        </div>
+    </div>
+    
+    <div id="footer"> <p>social media links</p></div>
+</div>
+</body>
+</html>
