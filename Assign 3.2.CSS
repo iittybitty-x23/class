@@ -1,0 +1,68 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("/Users/elexisasuncion/Desktop/pngtree-abstract-memphis-playful-portfolio-pink-image_593418.jpeg");
+    background-color: #cccccc;
+   }
+   
+}
+
+
+header {
+  background-color: #d2a9d6;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+
+nav {
+  float: left;
+  width: 30%;
+  height: 300px; 
+  background: #af71b5;
+  padding: 20px;
+}
+
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: right;
+  padding: 20px;
+  width: 70%;
+  background-color: #f4c0f9;
+  height: 300px; /
+}
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+footer {
+  background-color: #d2a9d6;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 400px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
